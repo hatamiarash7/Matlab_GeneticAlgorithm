@@ -1,2 +1,3 @@
 # Matlab_GeneticAlgorithm
- Genetic Algorithm in Matlab
+
+ Some Genetic algorithm examples in Matlab
