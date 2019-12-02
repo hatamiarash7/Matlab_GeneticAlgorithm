@@ -35,7 +35,7 @@ for j = 1:maxit
         c(i, 1) = c(i-1, 1) + p(i, 1);
     end
 
-    %% FATHER MOTHER & CHILD
+    %% FATHER , MOTHER & CHILD
     n1 = 1;
     n2 = 1;
     n3 = 1;
