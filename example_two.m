@@ -96,7 +96,7 @@ for j = 1:maxit
 end
 
 %% final result
-amu_ali = [l1, l2];
+result = [l1, l2];
 pop_new(1, 1:2)
 plot(l1, l2);
 hold on
